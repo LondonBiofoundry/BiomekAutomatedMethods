@@ -3,7 +3,7 @@
 Repository of the London Biofoundry's automated methods on the Biomek workcell composer of:
 
 * Biomek i7 - Liquid handling robot
-* Echo 550 - Accounting liquid handling robot
+* Echo 550 - Accoustic liquid handling robot
 * ClariostarPlus - Plate reader 
 * Precise - Robotic Arm
 * Liconic STX - Automated shaker incubator
@@ -45,6 +45,10 @@ Used for automated runs.
 * v#: version number 
 * Date: date of the run
 * Operator: name of the person who performed the run 
+
+## ToDo
+
+- [ ] Include SOPs for validated protocols
 
 ## License
 
